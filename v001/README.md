@@ -63,7 +63,7 @@ Generally, speaking the paracord will be longer in the back than the front. Ther
     * Pass the cut ends of the cord hrough the grommet.
     * Insert the ends of the cord into one of the cord locks.
     * Tie an overhand knot in each cord to prevent the cord lock from going off the end.
-    * On the oppostive end of the cord where it is folded, wrap the velcro around the cord about 2 inches from the fold.
+    * On the oppostive end of the cord where it is folded, wrap the velcro around the cord about 2 inches from the fold in the cord. Keep the smooth side out so the rough side doesn't rub agaisnt your guitar.
     * Wrap the velcro around itself. The velcro has two purposes:
         * First, it is to keep the cord from being able to go through the grommet and falling off.
         * Second, it prevents the loop around the strap pin from loosening when there is no tension on it.
@@ -73,7 +73,20 @@ Now it is time to use the strap.
 
 ## Use
 
-* 
+The key to this strap is wrapping the cord around the strap pin. Don't just hang it on the pin. It can be a little confusing from the discription, so use the video.
+
+* Take one end of the strap.
+* Hold onto the end of the paracord with the velcro. This side of the strap is the inside and should face towards the guitar.
+* Put the cord around the strap pin making sure you have a little extra on the end where the cord double backs.
+* Twist the cord. The cord will overlap itself at the strap pin on the opposite side from the strap.
+* Fit the cord back over the strap pin.
+* Pull the cord tight. There are two loops of cord around the strap pin.
+* Slide the velcro up against the strap pin.
+* Now repeat for the other side.
+
+This process is awkward at first. As you get used to it, you can do it with a single hand. I have several straps and this is my favorite one for taking off and putting on. I don't feel like I am making the strap pin hold larger everytime I attach/detack it like I do with my leather straps. If someting does go wrong with the paracord, just cut another piece. Everything else is reuseable.
+
+Watching the video can be very helpful.
 
 ## Issues
 
