@@ -2,7 +2,7 @@
 
 This covers how to build your own guitar strap without needing a sewing machine.
 
-![The finished strap and the parts to make a new one](/../images/StartToFinish.jpeg)
+![The finished strap and the parts to make a new one](/../images/StartToFinish.png)
 
 ## Parts
 
@@ -14,7 +14,7 @@ The following are the parts you are going to need:
 * Cord Locks: I used these XXX.
 * Velcro Cable Ties: You want to use smaller ties. I borrowed some from my phone cables. Older ones can work better.
 
-![The parts to make a new one](/images/Parts.jpeg)
+![The parts to make a new one](/images/Parts.png)
 
 ## Tools
 * Grommet Tools: I used this one XXX. Here is an Amazon link XXX.
