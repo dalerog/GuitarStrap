@@ -2,29 +2,44 @@
 
 This covers how to build your own guitar strap without needing a sewing machine.
 
+Note: Sorry to have to say this, but I take no responsibility for any damage that happens to you, your guitar, or anything else as a results of this project. My straps have been great, but your straps, body and guitar are different. If, however, you end up becoming famous while wearing a strap base on these designs I will take full credit for your success and become the hit of the dog park. 
+
 ![The finished strap and the parts to make a new one](/images/StartToFinish.png)
 
 ## Parts
 
 The following are the parts you are going to need:
 
-* Paracord: ~4 feet of paracord. I used 550 paracord that I happened to have. I would support your local hardware store. Depending on your guitar's strap pins smaller paracord might work better because it can fit tighter under the pin.
-* Webbing:  2 feet of webbing 2 inches wide. I think nylon webbeing would be prefered, but I used polypropolene. I bought XXX, but I would not recommend it. See reasons below.
-* Grommets: 2 3/4 inchd grommets.
-* Cord Locks: I used these XXX.
-* Velcro Cable Ties: You want to use smaller ties. I borrowed some from my phone cables. Older ones can work better.
+* Paracord: ~4 feet of paracord. I used 550 paracord that I happened to have. I would support your local hardware store and buy from them. Depending on your guitar's strap pins smaller paracord might work better because it can fit tighter under the pin. Using smaller cord might require smaller cord locks.
+* Webbing:  ~2 feet of 2 inch wide webbing. I think nylon webbing would be prefered, but I used [polypropolene](https://a.co/d/hPpISSm). The one I bought is more slippery than I would like. See below for more information.
+* Grommets: 2 3/4 inch grommets. I bought the [combo kit](https://a.co/d/2DWDpeO) which includes the necessary tools.
+* Cord Locks: I used [single slot](https://a.co/d/drngbGX) and [double slot](https://a.co/d/clO3hms).
+* Velcro Cable Ties: You want to use smaller shorter ties. I borrowed some from my phone cables. Older ones can work better as they are not too grippy.
+
+These are not affiliate links.
 
 ![The parts to make a new one](/images/Parts.png)
 
 ## Tools
-* Grommet Tools: I used this one XXX. Here is an Amazon link XXX.
+* Grommet Tools: I bought this [combo kit](https://a.co/d/2DWDpeO).
 * Soldering Iron: This is optional, but it is the way I put holes in the webbing.
-* Scissors
-* Measuring Tape
-* Ruler
+* Scissors and/or knife
+* Combination square, measuring Tape, and/or ruler
+
+## Preparation
+
+There are two main parts of the strap: the webbing and the paracord. The webbing is for comfort and only it should contact your body. The parachord is for connecting to the guitar and only it should touch the guitar. If it wasn't for comfort, the whole thing could be parachord.
+
+This strap can be completely customized to your body, playing style, and guitar. The measurements provided here are a good starting point, but you might like things differently. I play electric quitar in the classical position and like a shorter strap. If your guitar is hitting your knees when you play, you will want something longer.
+
+The ideal design is to have the webbing touching touching your body as it goes across your shoulder. There should be a couple of extra inches hanging off your body in the front and back. Try on your favorite guitar strap and measure where it stops touching your body. This is the measurement you want to use for the webbing. Generally, the size of this part of the strap will not change based on how lowe you wear the guitar. It should be fairly consistant. I used 2 feet for my strap. 
+
+You need enough parachord to go from the strap to the guitar and back again. Using your favorite guitar strap as a model measure how much space you need. Add a couple of extra inches for looping the strap and tying knots. I used ~2 feet. If you wear your guitar lower this is where you should add length. 
 
 ## Steps
 
+* Prepare the webbing
+    * Cut 2 feet of webbing. This can be sized to preference
 
 ## Use
 
