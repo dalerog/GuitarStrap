@@ -16,6 +16,8 @@ The following are the parts you are going to need:
 * Cord Locks: 2 cord locks. I used [single slot](https://a.co/d/drngbGX) and [double slot](https://a.co/d/clO3hms).
 * Velcro Cable Ties: You want to use smaller shorter ties. I borrowed some from my phone cables. Older ones can work better as they are not too grippy.
 
+It can be nice to use something to make it clear which end of the strap is the front end and which is the back end. Even if you cut the cord to the same length, you will find that you adjust the length of each cord slightly differntly. Making some difference between the ends will mean you don't have to adjust the strap as much. You can use different color velcro, cord, or cord locks for each end. You can tie the knocks on each end differently. You could sew or attach something to one end to make it stand out. This is just a nice to have.
+
 These are not affiliate links.
 
 ![The parts to make a new one](/images/Parts.png)
@@ -68,6 +70,8 @@ Generally, speaking the paracord will be longer in the back than the front. Ther
         * First, it is to keep the cord from being able to go through the grommet and falling off.
         * Second, it prevents the loop around the strap pin from loosening when there is no tension on it.
     * Now, repeat this process on the other end of the strap. Make sure that you have the cord locks on the same side of the strap for both ends. ;-)
+  
+If you don't do anything, both ends of the strap will look the same. There are some ideas on how to make the ends look different in the parts section.
 
 Now it is time to use the strap.
 
