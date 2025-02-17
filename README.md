@@ -2,7 +2,7 @@
 
 This site covers making your own guitar straps. The inspiration for this was to make straps that were shorter and worked well with Strangberg guitars when worn in the classical position. However, they should work with any guitar and be customizable.
 
-![The finished strap and the parts to make a new one](/images/StartToFinish.jpeg)
+![The finished strap and the parts to make a new one](/images/StartToFinish.png)
 
 Goals of this project are:
 
