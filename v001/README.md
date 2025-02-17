@@ -2,7 +2,7 @@
 
 This covers how to build your own guitar strap without needing a sewing machine.
 
-![The finished strap and the parts to make a new one](/images/StartToFinish.jpeg)
+![The finished strap and the parts to make a new one](/../images/StartToFinish.jpeg)
 
 ## Parts
 
