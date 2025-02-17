@@ -32,13 +32,33 @@ The following are the parts you are going to need:
 
 ## Issues
 
+The straps work as described above. I use this strap exclusively on one of my guitars and I'm very happy with it. However, there are a few things I would like to fix before I start using them on my other guitars.
 
+### Slippery webbing
+
+This may be personal perference, but I fid the webbing to be a little too slippery and I have to hold the guitar in the right spot which can get tiring after a while. I have seen others make the same complaign about guitar straps you can buy that use a simular material. So, this isn't unique to this design.
+
+The best solution would be to find a type of webbing that isn't as slippery, but I have not done this yet.
+
+#### My solution
+
+There are several ways to fix this issue. I ended up sewing on some non-slip fabric onto the part of the strap that goes against my body. I happened to have the fabric already, but I bought it from here: XXX.
+
+I cut a 1.5 foot by ~2 inch section of the non-slip fabric and just sewed the two ends onto the strap. It would be better to sew the sides also, but it works fine this way. I hand sewed it and it works fine.
+
+Some could say that this is too sticky as you can put the strap into postions where the guitar is out of balance, but it will hold in that postion. Some would say this is a feature.
+
+### Other solutions
+
+* Rub in a light coat of rubber cement or epoxy. This will provide a tacky surface. I have not tried this
+* Use a rubber bike innertube. You don't have to use a full strip, but just a pience to go over your shoulder. Bike inner tubes are curved and it might be hard getting a piece that is long enough. I tried this out by just putting the inner tube under the strap and it worked. I did not actually connect the two together.
+* Use neoprene without a nylon cover. You could either glue or sew the neoprene. If the neoprene is thin you could just use a little on your shoulder to keep the strap from moving. Alternatively, you could use a longer piece for comfort. See the variations below for more ideas.
 
 ## Variations
 
  * Double the webbing: Instead of using a single piece of webbing 2 foot long, cut a 4 foot piece and fold it in half. This makes the strap feel a little more solid and it doesn't flop around as much when you put it on. You basically, build it the same as before, but just put the grommets through both pieces of webbing at the same time. I did not swe the two pieces of strap together, but you could do this if you wanted to.
  * Pointed ends: As build above, the ends of the webbing will be squared off. If you wanted you can fold the ends into a point and sew them down. This would make them look a little more like traditional strap. I did not do this with mine.
  * Wider straps: Use 3" wide webbing instead of 2" wide. This should make the strap more comfortable as it is spreading the weight across a larger area. However, the strap is straight and not curved with your neck, so it might have drawbacks. I have not tried it.
- * 
+ * Neoprene: Sew a piece of neoprene to the webbing. Make sure that it is not too slippery if it has a nylon cover. Alternatively, use the double strap method and put the neoprene between the webbing. This could make a very comfortable strap. I have not tried this.
 
 **This project is covered by the CERN Open Hardware Licence Version 2 - Strongly Reciprocal.**
