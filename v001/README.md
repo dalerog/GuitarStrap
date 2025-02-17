@@ -34,6 +34,10 @@ The following are the parts you are going to need:
 
 The straps work as described above. I use this strap exclusively on one of my guitars and I'm very happy with it. However, there are a few things I would like to fix before I start using them on my other guitars.
 
+* Slippery Webbing
+* Cord locks slip
+* Velcro issues
+
 ### Slippery webbing
 
 This may be personal perference, but I fid the webbing to be a little too slippery and I have to hold the guitar in the right spot which can get tiring after a while. I have seen others make the same complaign about guitar straps you can buy that use a simular material. So, this isn't unique to this design.
@@ -48,11 +52,19 @@ I cut a 1.5 foot by ~2 inch section of the non-slip fabric and just sewed the tw
 
 Some could say that this is too sticky as you can put the strap into postions where the guitar is out of balance, but it will hold in that postion. Some would say this is a feature.
 
-### Other solutions
+#### Other solutions
 
 * Rub in a light coat of rubber cement or epoxy. This will provide a tacky surface. I have not tried this
 * Use a rubber bike innertube. You don't have to use a full strip, but just a pience to go over your shoulder. Bike inner tubes are curved and it might be hard getting a piece that is long enough. I tried this out by just putting the inner tube under the strap and it worked. I did not actually connect the two together.
 * Use neoprene without a nylon cover. You could either glue or sew the neoprene. If the neoprene is thin you could just use a little on your shoulder to keep the strap from moving. Alternatively, you could use a longer piece for comfort. See the variations below for more ideas.
+
+### Cord locks slip
+
+The cord locks sometimes slip. It doesn't happen very often, but once is really too often. I'm looking for better locks, but haven't found them yet. My solution is to tie a knot right after the cord lock. This keeps it from moving, but makes it harder to make adjustments. You could mark the place where the cord lock is, take the lock off, and just tie it off.
+
+### Velcro is too slippery except when its not
+
+The velcro is problematic. 
 
 ## Variations
 
@@ -60,5 +72,8 @@ Some could say that this is too sticky as you can put the strap into postions wh
  * Pointed ends: As build above, the ends of the webbing will be squared off. If you wanted you can fold the ends into a point and sew them down. This would make them look a little more like traditional strap. I did not do this with mine.
  * Wider straps: Use 3" wide webbing instead of 2" wide. This should make the strap more comfortable as it is spreading the weight across a larger area. However, the strap is straight and not curved with your neck, so it might have drawbacks. I have not tried it.
  * Neoprene: Sew a piece of neoprene to the webbing. Make sure that it is not too slippery if it has a nylon cover. Alternatively, use the double strap method and put the neoprene between the webbing. This could make a very comfortable strap. I have not tried this.
+ * Knots instead of locks: You can just knot the chord instead of using the chord locks. You can't adjust the strap as easily, but you might like how this looks better. It would be easier to start with the cord locks and when you know the right location, take them off and then tie the knot.
+ * Trim the extra cord: If you don't like how it looks with the extra chord flopping around, you can always trim it off.
+ * Knotting together: You can knot the cords together intead of just using an overhand knot at the end of each chord. You might think this looks better.
 
 **This project is covered by the CERN Open Hardware Licence Version 2 - Strongly Reciprocal.**
