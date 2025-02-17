@@ -12,8 +12,8 @@ The following are the parts you are going to need:
 
 * Paracord: ~4 feet of paracord. I used 550 paracord that I happened to have. I would support your local hardware store and buy from them. Depending on your guitar's strap pins smaller paracord might work better because it can fit tighter under the pin. Using smaller cord might require smaller cord locks.
 * Webbing:  ~2 feet of 2 inch wide webbing. I think nylon webbing would be prefered, but I used [polypropolene](https://a.co/d/hPpISSm). The one I bought is more slippery than I would like. See below for more information.
-* Grommets: 2 3/4 inch grommets. I bought the [combo kit](https://a.co/d/2DWDpeO) which includes the necessary tools.
-* Cord Locks: I used [single slot](https://a.co/d/drngbGX) and [double slot](https://a.co/d/clO3hms).
+* Grommets: Two 3/8 inch grommets. I bought the [combo kit](https://a.co/d/2DWDpeO) which includes the necessary tools.
+* Cord Locks: 2 cord locks. I used [single slot](https://a.co/d/drngbGX) and [double slot](https://a.co/d/clO3hms).
 * Velcro Cable Ties: You want to use smaller shorter ties. I borrowed some from my phone cables. Older ones can work better as they are not too grippy.
 
 These are not affiliate links.
@@ -25,25 +25,55 @@ These are not affiliate links.
 * Soldering Iron: This is optional, but it is the way I put holes in the webbing.
 * Scissors and/or knife
 * Combination square, measuring Tape, and/or ruler
+* Lighter or headgun for melting the webbing.
 
 ## Preparation
 
-There are two main parts of the strap: the webbing and the paracord. The webbing is for comfort and only it should contact your body. The parachord is for connecting to the guitar and only it should touch the guitar. If it wasn't for comfort, the whole thing could be parachord.
+There are two main parts of the strap: the webbing and the paracord. The webbing is for comfort and only it should contact your body. The parachord is for connecting to the guitar and only it should touch the guitar. If it wasn't for comfort, the whole thing could be parachord. 
 
-This strap can be completely customized to your body, playing style, and guitar. The measurements provided here are a good starting point, but you might like things differently. I play electric quitar in the classical position and like a shorter strap. If your guitar is hitting your knees when you play, you will want something longer.
+The paracord is not permantly attached to the webbing. You can change the paracord whenever you want. So, you can have multiple colors or different lengths of cord for different quitars and use the same piece of webbing.
 
-The ideal design is to have the webbing touching touching your body as it goes across your shoulder. There should be a couple of extra inches hanging off your body in the front and back. Try on your favorite guitar strap and measure where it stops touching your body. This is the measurement you want to use for the webbing. Generally, the size of this part of the strap will not change based on how lowe you wear the guitar. It should be fairly consistant. I used 2 feet for my strap. 
+This strap can be completely customized to your body, playing style, and guitar. The measurements provided here are a good starting point, but you might like things differently. I play electric quitar in the classical position and like a shorter strap. If your guitar is hitting your knees when you play, you will want something longer. To make it longer you will mostly want a longer piece of paracord.
 
-You need enough parachord to go from the strap to the guitar and back again. Using your favorite guitar strap as a model measure how much space you need. Add a couple of extra inches for looping the strap and tying knots. I used ~2 feet. If you wear your guitar lower this is where you should add length. 
+The ideal design is to have the webbing touching touching your body as it goes across your shoulder. There should be a couple of extra inches hanging off your body in the front and back. Try on your favorite guitar strap and measure where it stops touching your body. This is the measurement you want to use for the webbing. Generally, the size of this part of the strap will not change based on how lowe you wear the guitar. It should be fairly consistant. I used 2 feet for my strap. As mentioned in the variations section below, you can double the length of the webbing and fold it in half.
+
+You need enough parachord to go from the strap to the guitar and back again. Using your favorite guitar strap as a model measure how much space you need. Add a least 6 inchesfor looping the strap and tying knots. I used ~2 feet. If you wear your guitar lower this is where you should add length. If you are unsure, you can always cut more than you need and trim it down later. 
+
+Generally, speaking the paracord will be longer in the back than the front. There is less room between your shoulder and the front strap pin than there is between where the strap leaves your body on the back to the back strap pin.
 
 ## Steps
 
 * Prepare the webbing
-    * Cut 2 feet of webbing. This can be sized to preference
+    * Cut a piece of webbing to the length you decided above. I used 2 feet of webbing.
+    * Use a lighter or heat gun to melt the edges of the cut so they don't ravel.
+    * Measure about an inch up from each end of the strap and make a mark in the center of the strap. This is where you are going to instaall the grommets.
+    * The grommet kit above includes a tool for cutting a hole in the material. I found that I was able to use a soldering iron to make a hole. You might also be able to use a nail that you heat up with a lighter. Please be careful and try not to burn yourself. Make sure that you don't make the hole too big or the grommet won't work.
+    * I used the 3/8 inch grommets from the kit. These are the smaller ones. The grommet hole just needs to be large enough for two strands of the paracord to pass through.
+    * Attach the grommets per the instructions for the tools you are using.
+    * If you are doubling the web, make sure to connect the two pieces of webbing with the grommet.
+
+* Prepare the paracord
+    * Cut the paracord to your desired length. It is okay to cut it longer than needed. If you hate waste like me, cut twice as much as you need and then you can cut it in half and make a second strap.
+    * Use the lighter to melt the ends of the paracord. You can use pliers to flatten the melted end to make it easier to go through the cord locks.
+ 
+   That's really all there is to this part.
+
+* Assmeble the strap
+    * Fold one piece of the paracord in half.
+    * Pass the cut ends of the cord hrough the grommet.
+    * Insert the ends of the cord into one of the cord locks.
+    * Tie an overhand knot in each cord to prevent the cord lock from going off the end.
+    * On the oppostive end of the cord where it is folded, wrap the velcro around the cord about 2 inches from the fold.
+    * Wrap the velcro around itself. The velcro has two purposes:
+        * First, it is to keep the cord from being able to go through the grommet and falling off.
+        * Second, it prevents the loop around the strap pin from loosening when there is no tension on it.
+    * Now, repeat this process on the other end of the strap. Make sure that you have the cord locks on the same side of the strap for both ends. ;-)
+
+Now it is time to use the strap.
 
 ## Use
 
-
+* 
 
 ## Issues
 
