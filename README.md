@@ -13,7 +13,7 @@ Goals of this project are:
 * Does not scratch or damage the guitar.
 * Stays on the guitar and does not result in the guitar getting dropped.
 
-[Version 001](/version001/README.md) is about 95% of what you want a guitar strap to be.
+[Version 001](/v001/README.md) is about 95% of what you want a guitar strap to be.
 
 **This project is covered by the CERN Open Hardware Licence Version 2 - Strongly Reciprocal.**
 
