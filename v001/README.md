@@ -87,6 +87,9 @@ If you don't do anything, both ends of the strap will look the same. There are s
 
 Here is [![a video](https://img.youtube.com/vi/e4OyhcJ6KDw/default.jpg)](https://youtu.be/e4OyhcJ6KDw) of showing how to assemble the strap. This video shows using the velcro and not the wheel locks.
 
+Here is a video showing the wheel locks in place of the velcro. You can see the felt material wrapping around the edge of the one lock. It also shows the anti-slip fabric I added to the one strap. This is mentioned in the solutions to the slippery webbing below.
+![Shows the wheel locks in place of the velcro](/images/WheelLocks.png)
+
 Now it is time to use the strap.
 
 ## Use
@@ -138,9 +141,9 @@ The best solution would be to find a type of webbing that isn't as slippery, but
 
 #### My solution
 
-There are several ways to fix this issue. I ended up sewing on some non-slip fabric onto the part of the strap that goes against my body. I happened to have the fabric already, but I bought it from [here](https://www.seattlefabrics.com/54-Bumpy-Slip-NOT-Grip-Fabric-2695-linear-yard_p_169.html).
+There are several ways to fix this issue. I ended up sewing on some non-slip fabric onto the part of the strap that goes against my body. I happened to have the fabric already, but I bought it from [here](https://www.seattlefabrics.com/54-Bumpy-Slip-NOT-Grip-Fabric-2695-linear-yard_p_169.html). 
 
-I cut a 1.5 foot by ~2 inch section of the non-slip fabric and just sewed the two ends onto the strap. It would be better to sew the sides also, but it works fine this way. I hand sewed it and it works fine.
+I cut a 1.5 foot by ~2 inch section of the non-slip fabric and just sewed the two ends onto the strap. It would be better to sew the sides also, but it works fine this way. I hand sewed it and it works fine. You can see a picture above in the assembly section showing the wheel locks.
 
 Some could say that this is too sticky as you can put the strap into postions where the guitar is out of balance, but it will hold in that postion. Some would say this is a feature.
 
@@ -170,6 +173,8 @@ The velcro is problematic as it can be either too sticky to slide forward and ba
  * Trim the extra cord: If you don't like how it looks with the extra chord flopping around, you can always trim it off.
  * Knotting together: You can knot the cords together intead of just using an overhand knot at the end of each chord. You might think this looks better.
 
-This picture shows the two different style of cord locks.
+This picture shows the two different style of cord locks. The lock on the left has different holes for each cord. The one on the right has a single hole. Right now I'm not finding much difference in their ability to hold.
+![Shows two different styles of cord locks.](/images/CordLocks.png)
+
 
 **This project is covered by the CERN Open Hardware Licence Version 2 - Strongly Reciprocal.**
