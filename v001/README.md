@@ -2,9 +2,11 @@
 
 This covers how to build your own guitar strap without needing a sewing machine.
 
+***
+
  > [! NOTE] Note: Sorry to have to say this, but I take no responsibility for any damage that happens to you, your guitar, or anything else as a results of this project. My straps have been great, but your straps, body, and guitar are different. If, however, you end up becoming famous while wearing a strap base on these designs, I will take full credit for your success and become the hit of the dog park.
 
-
+***
 
 ![The finished strap and the parts to make a new one](/images/StartToFinish.png)
 
@@ -131,13 +133,13 @@ The straps work as described above. I use this strap exclusively on one of my gu
 
 ### Slippery webbing
 
-This may be personal perference, but I fid the webbing to be a little too slippery and I have to hold the guitar in the right spot which can get tiring after a while. I have seen others make the same complaign about guitar straps you can buy that use a simular material. So, this isn't unique to this design.
+This is a personal perference, but I find the webbing to be a little too slippery and I have to hold the guitar in the right spot which can get tiring after a while. I have seen others make similar complaints about guitar straps you can buy that use a simular material. So, this isn't unique to this design. It is also possible that you wouldn't even notice.
 
 The best solution would be to find a type of webbing that isn't as slippery, but I have not done this yet.
 
 #### My solution
 
-There are several ways to fix this issue. I ended up sewing on some non-slip fabric onto the part of the strap that goes against my body. I happened to have the fabric already, but I bought it from here: XXX.
+There are several ways to fix this issue. I ended up sewing on some non-slip fabric onto the part of the strap that goes against my body. I happened to have the fabric already, but I bought it from [here](https://www.seattlefabrics.com/54-Bumpy-Slip-NOT-Grip-Fabric-2695-linear-yard_p_169.html).
 
 I cut a 1.5 foot by ~2 inch section of the non-slip fabric and just sewed the two ends onto the strap. It would be better to sew the sides also, but it works fine this way. I hand sewed it and it works fine.
 
