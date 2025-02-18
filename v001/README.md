@@ -109,7 +109,7 @@ Watching the video can be very helpful.
 
 Here are some close ups pictures of attaching the cord to the guitar. 
 
-This video shows twisting the cord before folding it back over the strap pin: XXX
+[![This video](https://img.youtube.com/vi/OHnPxOfayp4/default.jpg)](https://youtu.be/OHnPxOfayp4) shows twisting the cord before folding it back over the strap pin: 
 
 After the video the cord should be twisted like in this picture.
 ![View after you have twisted the cord.](/images/1-LoopTwisted.png)
