@@ -170,4 +170,6 @@ The velcro is problematic as it can be either too sticky to slide forward and ba
  * Trim the extra cord: If you don't like how it looks with the extra chord flopping around, you can always trim it off.
  * Knotting together: You can knot the cords together intead of just using an overhand knot at the end of each chord. You might think this looks better.
 
+This picture shows the two different style of cord locks.
+
 **This project is covered by the CERN Open Hardware Licence Version 2 - Strongly Reciprocal.**
