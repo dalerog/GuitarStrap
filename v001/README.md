@@ -72,7 +72,6 @@ Generally, speaking the paracord will be longer in the back than the front. Ther
     * Insert the ends of the cord into one of the cord locks.
     * Tie an overhand knot in each cord to prevent the cord lock from going off the end.
     * On the oppostive end of the cord where it is folded, wrap the velcro around the cord about 2 inches from the fold in the cord. Keep the smooth side out so the rough side doesn't rub agaisnt your guitar.
-    *
     * If you are using the velro: Wrap the velcro around itself. The velcro has two purposes:
         * First, it is to keep the cord from being able to go through the grommet and falling off.
         * Second, it prevents the loop around the strap pin from loosening when there is no tension on it.
@@ -86,7 +85,7 @@ Generally, speaking the paracord will be longer in the back than the front. Ther
   
 If you don't do anything, both ends of the strap will look the same. There are some ideas on how to make the ends look different in the parts section.
 
-Here is a video (TODO) of showing how to assemble the strap. This video shows using the velcro and not the wheel locks.
+Here is [![a video](https://img.youtube.com/vi/e4OyhcJ6KDw/default.jpg)](https://youtu.be/e4OyhcJ6KDw) of showing how to assemble the strap. This video shows using the velcro and not the wheel locks.
 
 Now it is time to use the strap.
 
