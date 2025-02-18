@@ -118,11 +118,7 @@ Now you fold the loop back over the strap pin.
 Wrap the loop around the srap pin again.
 ![The cord is wrapped around the strap pin](/images/3-WrappingAround.png)
 
-Pull the cord tight, so the cord locks against itself.
-![The cord is pulled tight.](/images/4-PullTight.png)
-
-Move the velcro or wheel lock up against the strap pin to hold the loop in place when there is no tension on the cord.
-![Move the velcro or wheel lock against the strap pin.](/images/5-SlideLock.png)
+You will now pull the cord tight and then move the velcro or wheel lock up to keep it in place.
 
 
 ## Issues
