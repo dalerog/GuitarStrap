@@ -113,7 +113,7 @@ After the video the cord should be twisted like in this picture.
 ![View after you have twisted the cord.](/images/1-LoopTwisted.png)
 
 Now you fold the loop back over the strap pin.
-![Now you fold the loop back over the strap pin.](/images/2-LoopTwisted.png)
+![Now you fold the loop back over the strap pin.](/images/2-FoldingLoopBack.png)
 
 Wrap the loop around the srap pin again.
 ![The cord is wrapped around the strap pin](/images/3-WrappingAround.png)
