@@ -64,7 +64,7 @@ Generally, speaking the paracord will be longer in the back than the front. Ther
  
    That's really all there is to this part.
 
-* Assmeble the strap
+* Assemble the strap
     * Fold one piece of the paracord in half.
     * Pass the cut ends of the cord hrough the grommet.
     * Insert the ends of the cord into one of the cord locks.
@@ -104,6 +104,26 @@ The key to this strap is wrapping the cord around the strap pin. Don't just hang
 This process is awkward at first. As you get used to it, you can do it with a single hand. I have several straps and this is my favorite one for taking off and putting on. I don't feel like I am making the strap pin hold larger everytime I attach/detack it like I do with my leather straps. If someting does go wrong with the paracord, just cut another piece. Everything else is reuseable.
 
 Watching the video can be very helpful.
+
+Here are some close ups pictures of attaching the cord to the guitar. 
+
+This video shows twisting the cord before folding it back over the strap pin: XXX
+
+After the video the cord should be twisted like in this picture.
+![View after you have twisted the cord.](/images/1-LoopTwisted.png)
+
+Now you fold the loop back over the strap pin.
+![Now you fold the loop back over the strap pin.](/images/2-LoopTwisted.png)
+
+Wrap the loop around the srap pin again.
+![The cord is wrapped around the strap pin](/images/3-WrappingAround.png)
+
+Pull the cord tight, so the cord locks against itself.
+![The cord is pulled tight.](/images/4-PullTight.png)
+
+Move the velcro or wheel lock up against the strap pin to hold the loop in place when there is no tension on the cord.
+![Move the velcro or wheel lock against the strap pin.](/images/5-SlideLock.png)
+
 
 ## Issues
 
