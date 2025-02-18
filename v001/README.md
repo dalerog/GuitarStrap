@@ -105,7 +105,7 @@ The key to this strap is wrapping the cord around the strap pin. Don't just hang
 
 This process is awkward at first. As you get used to it, you can do it with a single hand. I have several straps and this is my favorite one for taking off and putting on. I don't feel like I am making the strap pin hold larger everytime I attach/detack it like I do with my leather straps. If someting does go wrong with the paracord, just cut another piece. Everything else is reuseable.
 
-Watching the video can be very helpful.
+Watching [![the video](https://img.youtube.com/vi/6bzeIvQumjw/default.jpg)](https://youtu.be/6bzeIvQumjw) can be very helpful.
 
 Here are some close ups pictures of attaching the cord to the guitar. 
 
